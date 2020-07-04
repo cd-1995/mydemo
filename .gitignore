@@ -1,5 +1,4 @@
-*.[oa]
-*~
-*.dll
 build/
 .idea
+
+
